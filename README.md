@@ -1,14 +1,9 @@
 # 🔬 Interactive Periodic Table 🧪  
 
-Discover detailed properties in a fun and engaging way! 🌍✨  
-Perfect for learning chemistry with an intuitive design! ⚛️📚  
-Easily navigate and find element information at a glance! 🔍💡  
-
+Discover detailed properties in a fun and engaging way! 🌍✨ Perfect for learning chemistry with an intuitive design! ⚛️📚  Easily navigate and find element information at a glance! 🔍💡  
 ---
-
 ## 🚀 **Live Demo**  
 🔗 [View Project](https://hifza-khalid.github.io/InteractivePeriodicTable)  
-
 ---
 
 ## 📜 **Features**  
